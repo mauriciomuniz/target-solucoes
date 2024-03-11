@@ -1,6 +1,6 @@
 Na questão 3 ao executar a solução mostra o resultado para cada letra 
 
-3. respostas: 
+respostas: 
 a) 9
 b) 128
 c) 49
