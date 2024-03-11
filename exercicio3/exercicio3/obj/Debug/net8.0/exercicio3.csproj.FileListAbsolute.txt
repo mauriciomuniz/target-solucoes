@@ -12,3 +12,4 @@ C:\Users\Remakker\Documents\target\exercicio3\exercicio3\obj\Debug\net8.0\refint
 C:\Users\Remakker\Documents\target\exercicio3\exercicio3\obj\Debug\net8.0\exercicio3.pdb
 C:\Users\Remakker\Documents\target\exercicio3\exercicio3\obj\Debug\net8.0\exercicio3.genruntimeconfig.cache
 C:\Users\Remakker\Documents\target\exercicio3\exercicio3\obj\Debug\net8.0\ref\exercicio3.dll
+C:\Users\Remakker\Documents\target\exercicio3\exercicio3\obj\Debug\net8.0\exercicio3.sourcelink.json

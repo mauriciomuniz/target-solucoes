@@ -1,0 +1,1 @@
+Na questão 5 só executar a solução e digitar qualquer palavra que inverte

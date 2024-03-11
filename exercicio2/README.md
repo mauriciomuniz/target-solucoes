@@ -1,0 +1,1 @@
+Resposta para a questão 2 é exibida ao executar a solução

@@ -71,7 +71,7 @@ class Program
         Console.WriteLine("Sequência c) 0, 1, 4, 9, 16, 25, 36, ___");
 
         int ultimoNumero = 36;
-        int proximoNumero = ultimoNumero + 11;
+        int proximoNumero = (int)Math.Pow(Math.Sqrt(ultimoNumero) + 1, 2);
         Console.WriteLine($"O próximo número é: {proximoNumero}");
     }
 
